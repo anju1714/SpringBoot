@@ -1,1 +1,17 @@
+why we use SpringBoot?
+Simplified Spring Development
+Quick Project Setup
+Embedded Servers (Tomcat, Jetty, Undertow)
+Microservices Support
+Auto Configuration
+Production-Ready Features (Monitoring, Health Checks)
+Standalone Applications (No need for external servers)
+Easy Dependency Management
+Integrated Security (Spring Security)
+Minimal XML Configuration
+Built-in Testing Support
+Active and Large Community Support
 
+
+Q2 ] How to use Spring in our project ===> Spring Initialize , Spring tool suit (STS) , Download Plungins in Our IDE for exampl eEclips =
+install a extention in eclips and once u done with a that go to New-> file-> type spring-> them we get out Spring Starter project  .
