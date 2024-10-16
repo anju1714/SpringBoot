@@ -15,3 +15,8 @@ Active and Large Community Support
 
 Q2 ] How to use Spring in our project ===> Spring Initialize , Spring tool suit (STS) , Download Plungins in Our IDE for exampl eEclips =
 install a extention in eclips and once u done with a that go to New-> file-> type spring-> them we get out Spring Starter project  .
+
+name = demo
+group = com.anjali
+artifact = demo
+com.anjali.demo
