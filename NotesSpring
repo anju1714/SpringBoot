@@ -20,3 +20,43 @@ name = demo
 group = com.anjali
 artifact = demo
 com.anjali.demo
+after that our spring boot pe]roject is ready then we can able to do multiple confuguration 
+
+for exmpl i want to show data on browse so we can do very simply by using spring boot 
+i create a one project for this name (aj)
+
+@ 2] What is the use of application.properties file in Spring Boot]
+
+Database Configuration
+
+Connection details for the database.
+Server Configuration
+
+Application port settings.
+Logging Configuration
+
+Logging levels for packages and loggers.
+Profiles and Environment Settings
+
+Active Spring profiles for different environments.
+Email Configuration
+
+SMTP settings for sending emails.
+Security Configuration
+
+Security settings like username and password.
+Hibernate and JPA Settings
+
+JPA and Hibernate configuration properties.
+Custom Application Properties
+
+Custom properties for application use.
+Internationalization (i18n)
+
+Message source and encoding settings.
+
+
+
+
+
+
