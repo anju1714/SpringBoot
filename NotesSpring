@@ -25,7 +25,7 @@ after that our spring boot pe]roject is ready then we can able to do multiple co
 for exmpl i want to show data on browse so we can do very simply by using spring boot 
 i create a one project for this name (aj)
 
-@ 2] What is the use of application.properties file in Spring Boot]
+@ 3] What is the use of application.properties file in Spring Boot]
 
 Database Configuration
 
@@ -54,6 +54,13 @@ Custom properties for application use.
 Internationalization (i18n)
 
 Message source and encoding settings.
+===================================================
+
+Q 4 ]  what is jpa spring boot ? 
+=> jpa is work as ORM in backend we can comnicTE WITH DATABSE IN SIMPLE WAY 
+JPA (Java Persistence API) is a specification that defines how to map Java objects to relational database tables and manage data persistence.
+It allows developers to perform CRUD operations without writing SQL queries, 
+using an ORM framework like Hibernate to handle the database interactions.
 
 
 
